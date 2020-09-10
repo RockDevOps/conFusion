@@ -41,6 +41,10 @@ body {
     z-index: 0;
 }
 
+.modal {
+    color: #0f0f0f;
+}
+
 .navbar-dark {
     background-color: #512DA8;
 }
